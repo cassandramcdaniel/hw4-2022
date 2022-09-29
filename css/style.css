@@ -172,8 +172,8 @@ first div in the grid  and place it in the grid. */
         background-repeat: no-repeat;
         background-attachment: fixed;      
         background-position: center; 
-        background-repeat: no-repeat; 
-        background-size: cover;       
+
+       background-size: cover;       
        
         }
         .about-image, .method-image, .clients-image, .contact-image {
