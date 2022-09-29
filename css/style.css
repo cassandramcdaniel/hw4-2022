@@ -224,15 +224,7 @@ first div in the grid  and place it in the grid. */
         grid-row: 5/6;
        }
     
-    
-      section:not(.about){
-      display: none; }
-      section:not(.method){
-      display: none; }
-      section:not(.clients){
-     display: none; }
-      section:not(.contact){
-      display: none; }
+  
                 
 
  /* Step 8: Write the selector/rule property to style the .text-block class. */
